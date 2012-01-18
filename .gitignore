@@ -1,3 +1,5 @@
 
 /socket_server/bin
 /socket_server/obj
+/socket_client/bin
+/socket_client/obj
